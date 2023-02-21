@@ -5,20 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="container">
-      <h1>Awesome Books</h1>
+    <section>
+      <h1>All Awesome Books</h1>
       <div class="book-container"></div>
-      <form id="book-form">
-        <input type="text" id="book" placeholder="Title" /> <br />
-        <br />
-        <input type="text" id="author" placeholder="Author" />
-        <br />
-        <br />
-        <input id="add-btn" type="submit" value="AddBook" />
-      </form>
-    </div>
+      <div class="form">
+        <form action="">
+          <h2>Add a new Book</h2>
+          <input type="text" id="book" placeholder="Title" /> <br />
+          <br />
+          <input type="text" id="author" placeholder="Author" />
+          <br />
+          <br />
+          <div class="button-cont">
+            <button id="add-btn" type="button">Add</button>
+          </div>
+        </form>
+      </div>
+    </section>
     <script src="script.js"></script>
   </body>
 </html>
