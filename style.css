@@ -1,0 +1,10 @@
+input {
+  height: 30px;
+  width: 200px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+hr {
+  height: 2px;
+}
