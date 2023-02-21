@@ -3,9 +3,26 @@ section {
   margin: 0 auto;
 }
 
-/* .container {
+.book-container {
+  width: 100%;
+  border: 1px solid black;
+}
+
+input {
+  height: 10px;
+  width: 200px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.book {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-} */
+  width: 96%;
+  padding: 0 2%;
+}
+
+.book:nth-child(odd) {
+  background-color: rgba(128, 128, 128, 0.39);
+}
