@@ -27,10 +27,8 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <h1><b>AWESOME BOOKS AMANUEL AND FRANK</b></h1>
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
 
 </div>
 
@@ -62,9 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Awesome-Books] <a name="about-project"></a>
 
-> Awesome book is a website to store and remove a book form UI and Local storage.
-
-**[Awesome-Books]** is a...
+**[Awesome-Books]** is a website to store and remove a book form UI and Local storage.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,21 +69,9 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
   </ul>
 </details>
 
@@ -147,6 +131,10 @@ Example commands:
 ### Install
 
 Install this project with:
+http server:
+
+npm install http-server -g
+http-server
 
 <!--
 Example command:
@@ -171,7 +159,10 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, go to:
+
+1. htmltester--> https://wave.webaim.org/
+2. csstester-->https://jigsaw.w3.org/css-validator/
 
 <!--
 Example command:
@@ -247,15 +238,9 @@ We would like to thank the microverse team for their suport.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="Amanuel and Frank"></a>
 
 This project is [MIT](./MIT.md) licensed.
 
